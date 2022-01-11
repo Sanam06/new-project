@@ -1,0 +1,14 @@
+td {
+
+    border: 1px solid black;
+    padding: 4px;
+
+    text-align : center;
+}
+
+a {
+    font-weight: bolder;
+    font-size: large;
+    color: red;
+    
+}
